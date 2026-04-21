@@ -50,6 +50,8 @@ pip install -r requirements.txt
 jupyter notebook notebooks/Megane_La_Rocca_Examen_blanc.ipynb
 ```
 
+> ⚠️ Le fichier `df_cyclistic_clean.parquet` (180 Mo) n'est pas inclus dans le repo GitHub pour respecter les limites de taille. Il est téléchargé automatiquement lors de l'exécution du notebook (cellule 8 — `examen_blanc.ipynb`).
+
 ## Auteur
 
 Megane La Rocca — Formation Data Analyst (Vert 11-2025)
