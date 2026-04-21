@@ -10,7 +10,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Données lourdes (optionnel - on verra)
-# data/*.parquet
+ data/*.parquet
+
 
 # OS
 .DS_Store
